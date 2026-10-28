@@ -1,0 +1,13 @@
+sample_id,condition,file
+24-004-10_S20,HM-NKX3.1-CM,/mnt/lun3/processed/BilgeDebelec/BAP-RNAseq/results.first/star_salmon/24-004-10_S20/quant.sf
+24-004-11_S18,HM-NKX3.1-CM,/mnt/lun3/processed/BilgeDebelec/BAP-RNAseq/results.first/star_salmon/24-004-11_S18/quant.sf
+24-004-1_S56,HM-vector-C,/mnt/lun3/processed/BilgeDebelec/BAP-RNAseq/results.first/star_salmon/24-004-1_S56/quant.sf
+24-004-2_S52,HM-vector-C,/mnt/lun3/processed/BilgeDebelec/BAP-RNAseq/results.first/star_salmon/24-004-2_S52/quant.sf
+24-004-3_S41,HM-vector-C,/mnt/lun3/processed/BilgeDebelec/BAP-RNAseq/results.first/star_salmon/24-004-3_S41/quant.sf
+24-004-4_S27,HM-vector-CM,/mnt/lun3/processed/BilgeDebelec/BAP-RNAseq/results.first/star_salmon/24-004-4_S27/quant.sf
+24-004-5_S19,HM-vector-CM,/mnt/lun3/processed/BilgeDebelec/BAP-RNAseq/results.first/star_salmon/24-004-5_S19/quant.sf
+24-004-6_S17,HM-vector-CM,/mnt/lun3/processed/BilgeDebelec/BAP-RNAseq/results.first/star_salmon/24-004-6_S17/quant.sf
+24-004-7_S14,HM-NKX3.1-C,/mnt/lun3/processed/BilgeDebelec/BAP-RNAseq/results.first/star_salmon/24-004-7_S14/quant.sf
+24-004-8_S53,HM-NKX3.1-C,/mnt/lun3/processed/BilgeDebelec/BAP-RNAseq/results.first/star_salmon/24-004-8_S53/quant.sf
+24-004-9_S42,HM-NKX3.1-C,/mnt/lun3/processed/BilgeDebelec/BAP-RNAseq/results.first/star_salmon/24-004-9_S42/quant.sf
+24004-12_S15,HM-NKX3.1-CM,/mnt/lun3/processed/BilgeDebelec/BAP-RNAseq/results.first/star_salmon/24004-12_S15/quant.sf

@@ -1,0 +1,25 @@
+name: rnaseq_env
+channels:
+  - conda-forge
+  - bioconda
+channel_priority: strict
+dependencies:
+  - r-base=4.4.*
+  - r-tidyverse
+  - r-data.table
+  - r-optparse
+  - r-stringr
+  - r-tidyr
+  - r-readr
+  - r-dplyr
+  - r-ggplot2
+  - r-pheatmap
+  - r-ggrepel
+  - r-scales
+  - bioconductor-deseq2
+  - bioconductor-edger
+  - bioconductor-tximport
+  - bioconductor-tximeta
+  - bioconductor-biocparallel
+  - bioconductor-genomicranges
+  - bioconductor-summarizedexperiment
